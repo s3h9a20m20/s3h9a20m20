@@ -1,51 +1,44 @@
-<img align="right" src="https://visitor-badge.laobi.icu/?username=s3h9a20m20" />
-<img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/s3h9a20m20?style=social"/>
+# 🚀 My Portfolio Website
 
-# Hello! I am Sham Makhoul 👋     
-**Front-End Developer | SoftWare Engineer Student (FifthYear)**  
-📍 Syria, Damascus  
-📧 makhoulsham@gmail.com  
-📱 +963 943 670 327  
+![image](https://github.com/user-attachments/assets/ade45c4b-b2cb-46cb-b8a6-31cad3bd0c5a)
 
-<p align="left">
-  <a href="https://linkedin.com/in/sham-makhoul">LinkedIn</a> •
-  <a href="https://github.com/s3h9a20m20">GitHub</a> •
-</p>
+[Checkout the initial design here](https://www.figma.com/design/56hODoGFDzZfZduBPfQeBg/New-Portfolio?node-id=18-1550&t=73vRMGTW0gspTSND-1)
 
-> "I love Turning Ideas Into Real Applications Used By Thousands Of Users, Whether on The Web or Mobile."
+## 🚨 Forking this repo (please read!)
 
-### 🛠 Technologies and Tools 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
 
+I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
 
-### 🔥 Featured Projects
+Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Next.js docs](https://nextjs.org/docs).
 
-| Project                          | Description                                                                                 | Technologies                   | Status                  |
-|----------------------------------|---------------------------------------------------------------------------------------------|--------------------------------|-------------------------|
-| Pharmacies & Inventories System  | Full-featured pharmacy management dashboard with barcode scanning, PDF reports, and full offline support | React.js, IndexedDB, REST API  | 🚀 Deployed & In Use     |
-| Events Management App            | Cross-platform mobile app for event planning, ticketing, and guest management              | Flutter, Dart, GetX            | 🔄 Publishing Soon       |
-| Pharmacy Management PWA          | Progressive Web App for managing sales, prescriptions, and inventory                       | Flutter Web, GetX              | 🔄 Publishing Soon       |
+If you like my work, give it a star⭐.
 
-> The pharmacy system is already used daily by real pharmacies in Damascus.  
-> The other two projects are being cleaned and prepared for public release very soon!
+### TL;DR
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=s3h9a20m20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sham's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s3h9a20m20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+Yes, you can fork this repo. Please give me proper credit by linking back to [tajmirul.site](https://tajmirul.site/). Thanks!
 
-### 🏆 Key Achievements
-- Reduced manual data entry errors by **95%** using barcode-based billing system  
-- Improved page load performance by **40%** through lazy loading and code splitting  
-- Built fully functional **Offline-First** applications using IndexedDB  
-- Developed production-ready apps currently used in real businesses
+## 🛠 Installation & Set Up
 
-<img src="https://komarev.com/ghpvc/?username=s3h9a20m20&color=brightgreen" alt="Profile views" />
+First, run the development server:
 
-⭐ Always excited for new opportunities & collaborations – feel free to reach out! ✨✨
+```bash
+pnpm install
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## 🤝 Contributing
+
+If you'd like to contribute or suggest improvements, feel free to open an issue or submit a pull request. All contributions are welcome!
+
+## Credit
+
+_This readme is inspired from [Brittany Chiang's github](https://github.com/bchiang7/v4)_
+
+## 📄 License
+
+This project is open source and available under the [MIT License](https://github.com/Tajmirul/portfolio-2.0/blob/main/LICENSE).
+
+## npx next dev لتشغيل البرنامج
